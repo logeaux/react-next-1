@@ -2,6 +2,8 @@
 
 [gh-pages](https://github.com/vercel/next.js/tree/canary/examples/gh-pages)
 
+[Static HTML Export](https://nextjs.org/docs/advanced-features/static-html-export)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
